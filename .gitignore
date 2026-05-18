@@ -1,5 +1,19 @@
-#dataset ignored
-.csv
+# virtual environments Python
+.venv/
+env/
+venv/
+ENV/
+
+# dataset de Kaggle
+data/
+
+# Streamlit
+*.pyc
+.streamlit/
+
+# OS generated files
+.DS_Store
+Thumbs.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
