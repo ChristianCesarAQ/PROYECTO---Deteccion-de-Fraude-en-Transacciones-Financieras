@@ -13,7 +13,7 @@ El proyecto utiliza el conjunto de datos **Fraud Detection Transactions Dataset*
 
 ## Despliegue y Enlaces del Proyecto
 
-- **Aplicación Web en Producción (Streamlit):** [Acceder a la App](https://proyecto---deteccion-de-fraude-en-transacciones-financieras-c3.streamlit.app/)
+- **Aplicación Web en Producción (Streamlit):** [Acceder a la App](https://proyecto---deteccion-de-fraude-en-transacciones-financieras-2w.streamlit.app/)
 - **Repositorio del Código Fuente:** [GitHub Repository](https://github.com/ChristianCesarAQ/PROYECTO---Deteccion-de-Fraude-en-Transacciones-Financieras.git)
 
 ## Tecnologías y Librerías
