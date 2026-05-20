@@ -1,6 +1,8 @@
 # Sistema Inteligente de Detección de Fraude en Transacciones Financieras
 
-Consiste en un sistema de información capaz de clasificar transacciones financieras como "Legítimas" o "Fraude" utilizando algoritmos de aprendizaje supervisado, implementados tanto en Python como en RapidMiner.
+Este proyecto consiste en un Sistema de Información Inteligente capaz de clasificar transacciones financieras como _"Legítimas"_ o _"Fraude"_ utilizando algoritmos de aprendizaje supervisado. El desarrollo sigue un enfoque metodológico híbrido, combinando la flexibilidad y control del código en **Python** con la auditoría, análisis estructural y validación visual de **RapidMiner Studio**.
+
+La solución no solo se limita al modelado matemático, sino que abarca todo el ciclo de vida del dato, culminando en la persistencia del modelo optimizado y su despliegue en producción mediante una plataforma web interactiva.
 
 ## Dataset Utilizado
 
@@ -8,6 +10,11 @@ El proyecto utiliza el conjunto de datos **Fraud Detection Transactions Dataset*
 
 - **Fuente del Dataset:** [Enlace a Kaggle](https://www.kaggle.com/datasets/samayashar/fraud-detection-transactions-dataset)
 - _Nota: Por políticas de almacenamiento, el archivo CSV no se sube a este repositorio y debe colocarse en la carpeta `data/` en local._
+
+## Despliegue y Enlaces del Proyecto
+
+- **Aplicación Web en Producción (Streamlit):** [Acceder a la App](https://proyecto---deteccion-de-fraude-en-transacciones-financieras-pe.streamlit.app/)
+- **Repositorio del Código Fuente:** [GitHub Repository](https://github.com/ChristianCesarAQ/PROYECTO---Deteccion-de-Fraude-en-Transacciones-Financieras.git)
 
 ## Tecnologías y Librerías
 
